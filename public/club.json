@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Exclusive Discounts",
+      "cover": "/assets/Facility1.jpg",
+      "description": "As a member of our club, you'll enjoy exclusive discounts on a wide range of products and services. Save money on shopping, dining, entertainment, and more. Get access to special promotions and limited-time offers."
+    },
+    {
+      "id": 2,
+      "title": "Priority Access",
+      "cover": "/assets/Facility2.jpg",
+      "description": "With priority access, you'll be at the front of the line for tickets to concerts, events, and exclusive experiences. Say goodbye to long waits and secure your spot at the hottest events in town."
+    },
+    {
+      "id": 3,
+      "title": "Personalized Rewards",
+      "cover": "/assets/Facility3.jpg",
+      "description": "Our club offers personalized rewards tailored to your preferences. Earn points for every purchase and redeem them for special rewards, gifts, or upgrades. Experience a level of personalization like never before."
+    }
+
+]

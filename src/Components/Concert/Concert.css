@@ -1,0 +1,18 @@
+.img {
+    filter: grayscale(100);
+    transition: 0.3s;
+}
+
+.title {
+    transition: 0.3s;
+}
+
+.container:hover img {
+    filter: grayscale(0);
+    
+}
+
+.container:hover .title {
+    font-size: 3.5rem;
+
+}

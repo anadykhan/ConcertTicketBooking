@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.cdnfonts.com/css/quentin');
+
+
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 200;
+  src: url('/assets/oswald-v53-latin-200.woff2') format('woff2');
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 300;
+  src: url('/assets/oswald-v53-latin-300.woff2') format('woff2');
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/oswald-v53-latin-regular.woff2') format('woff2');
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 500;
+  src: url('/assets/oswald-v53-latin-500.woff2') format('woff2');
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/assets/oswald-v53-latin-600.woff2') format('woff2');
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+@font-face {
+  font-display: swap;
+  /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/assets/oswald-v53-latin-700.woff2') format('woff2');
+  /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+@font-face {
+  font-family: 'Quentin';
+  src: url('/assets/Quentin.woff');
+}
+
+.custom {
+  background-color: #f45f0b !important;
+  border: none;
+  font-size: 0.9rem;
+  color: white;
+  flex-wrap: nowrap;
+}
+
+.custom2 {
+  background-color: transparent !important;
+  font-size: 0.9rem;
+  color: white;
+  flex-wrap: nowrap;
+  border-color: #f45f0b !important;
+}
+
+.oswald{
+  font-family: 'Oswald', sans-serif;
+}
+
+.parisienne {
+  font-family: 'Parisienne', cursive;
+}
+
+.quentin {
+  font-family: 'Quentin';
+}
+
+.active {
+  background: transparent !important;
+  color: #f45f0b !important;
+}

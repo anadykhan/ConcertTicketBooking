@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "concert_name": "ROCK 'N' ROLL EXTRAVAGANZA",
+    "concert_image": "/assets/Concert1.jpg",
+    "description": "Experience the energy of classic rock with legendary bands. Get ready to rock all night long!",
+    "date": "November 2, 2023",
+    "participants": 1000,
+    "type": "open",
+    "artist": "Electronic Train",
+    "artist_image": "https://i.ibb.co/Yp2bvJ5/anthony-tran-3-Xkms-g-Mv-Zg-unsplash.jpg",
+    "price": 50.0
+  },
+  {
+    "id": 2,
+    "concert_name": "JAZZ IN THE PARK",
+    "concert_image": "/assets/Concert2.jpg",
+    "description": "Relax and unwind with smooth jazz melodies in a beautiful outdoor setting.",
+    "date": "November 2, 2023",
+    "participants": 1000,
+    "type": "open",
+    "artist": "Louis Briganza",
+    "artist_image": "https://i.ibb.co/6RBLqQH/ali-morshedlou-WMD64t-Mfc4k-unsplash.jpg",
+    "price": 35.0
+  },
+  {
+    "id": 3,
+    "concert_name": "POP SENSATION",
+    "concert_image": "/assets/Concert3.jpg",
+    "description": "Dance to the latest chart-topping hits performed by your favorite pop artists.",
+    "date": "November 2, 2023",
+    "participants": 1000,
+    "type": "open",
+    "artist": "Michael Blue",
+    "artist_image": "https://i.ibb.co/0FghJcv/amir-esrafili-qkd0-W6-TKT4-unsplash.jpg",
+    "price": 60.0
+  },
+  {
+    "id": 4,
+    "concert_name": "CLASSICAL MASTERPIECES",
+    "concert_image": "/assets/Concert4.jpg",
+    "description": "Immerse yourself in the timeless beauty of classical music by renowned orchestras.",
+    "date": "November 2, 2023",
+    "participants": 1000,
+    "type": "open",
+    "artist": "Ludwig Green",
+    "artist_image": "https://i.ibb.co/VvhghNh/noah-buscher-8-A7f-D6-Y5-VF8-unsplash.jpg",
+    "price": 45.0
+  },
+  {
+    "id": 5,
+    "concert_name": "COUNTRY MUSIC JAM",
+    "concert_image": "/assets/Concert5.jpg",
+    "description": "Saddle up for a night of toe-tapping country tunes, cowboy boots, and good ol' country fun.",
+    "date": "November 2, 2023",
+    "participants": 1000,
+    "type": "open",
+    "artist": "John Miller",
+    "artist_image": "https://i.ibb.co/GspkfRn/mohammad-metri-r8-J8-Afo-HPz4-unsplash.jpg",
+    "price": 55.0
+  },
+  {
+    "id": 6,
+    "concert_name": "ELECTRONIC DANCE PARTY",
+    "concert_image": "/assets/Concert6.jpg",
+    "description": "Join the electronic music revolution with mind-blowing visuals and non-stop beats.",
+    "date": "November 2, 2023",
+    "participants": 1000,
+    "type": "open",
+    "artist": "Dead Rat",
+    "artist_image": "https://i.ibb.co/RbMZZZq/peyman-farmani-RH5f-Cog-Rcis-unsplash.jpg",
+    "price": 40.0
+  }
+]
